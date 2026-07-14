@@ -1,0 +1,30 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #492C1D;
+    }
+
+    h1 {
+      color:#e9a17d;
+    }
+
+    .produto {
+      background-color: #ece7e5;
+    }
+
+    .nome {
+      display: inline-block;
+      color: #000000;
+    }
+
+    .preco {
+      display: inline-block;
+      color: #333333;
+    }
+
+    .descricao {
+      color: #111111;
+    }
+
+    .oculto {
+      display: none;
+    }
