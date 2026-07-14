@@ -5,15 +5,23 @@ nav {
 
 .cabecalho {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: #341f14;
 }
 
 .logo img {
-  height: 40px;
+  height: 60px;
 }
 
 .menu {
   display: flex;
+}
+
+a[href="#"] {
+  padding: 12px;
+  margin: 20px;
+  border: 2px solid #e9a17d;
 }
 
 .btn-login {
